@@ -1,0 +1,6 @@
+{
+  "name": "SicBo Prediction App",
+  "description": "Premium Crypto-RNG Casino Simulator and High-Level SicBo Prediction Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
